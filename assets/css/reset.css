@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+nav,
+header,
+main,
+article,
+h1,
+h2,
+p{
+    border: 3px solid black;
+}
